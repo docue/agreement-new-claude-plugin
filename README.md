@@ -1,6 +1,6 @@
 # Agreement.new
 
-Send PDFs for electronic signature, see who still needs to sign, and retrieve signed copies from your Agreement.new team. The plugin pairs the Agreement.new connector with a workflow for checking progress, sending agreements, and following up with pending signers. Recipients sign in Agreement.new, not in Claude.
+Send PDFs for e-signature, track signing progress, and download signed copies. Ask Claude to send a saved draft, check who still needs to sign, or remind pending signers. Recipients sign in Agreement.new, not in Claude.
 
 ## Connect
 
