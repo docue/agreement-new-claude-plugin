@@ -1,0 +1,18 @@
+{
+    "name": "agreement-new",
+    "displayName": "Agreement.new",
+    "version": "1.0.0",
+    "description": "Send PDFs for electronic signature, see who still needs to sign, and retrieve signed agreements.",
+    "author": {
+        "name": "Docue Technologies Oy",
+        "email": "hello@agreement.new",
+        "url": "https://agreement.new"
+    },
+    "homepage": "https://agreement.new",
+    "license": "MIT",
+    "icon": "./icon-512.png",
+    "documentationUrl": "https://agreement.new/docs/connect-claude",
+    "supportUrl": "https://agreement.new/contact",
+    "privacyPolicyUrl": "https://agreement.new/privacy",
+    "termsOfServiceUrl": "https://agreement.new/terms"
+}

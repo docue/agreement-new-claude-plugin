@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+        "agreement-new": {
+            "type": "http",
+            "url": "https://agreement.new/mcp"
+        }
+    }
+}
