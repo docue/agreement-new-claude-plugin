@@ -1,7 +1,7 @@
 {
     "name": "agreement-new",
     "displayName": "Agreement.new",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Send PDFs for e-signature, track signing progress, and download signed copies.",
     "author": {
         "name": "Docue Technologies Oy",
